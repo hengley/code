@@ -10,10 +10,6 @@ Table of Contents
 * [八  python-machine-learning-book](#八-python-machine-learning-book)
 * [九  sleep-scoring](#九-sleep-scoring)
 * [十  research](#十-research) 
-<<<<<<< HEAD
-=======
-
->>>>>>> c3a982d2c995ea9401779c7f35d617fcd560a653
 
 ### 一 [100days](https://github.com/coells/100days)
     100 days of algorithms
