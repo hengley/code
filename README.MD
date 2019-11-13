@@ -10,6 +10,10 @@ Table of Contents
 * [八  python-machine-learning-book](#八-python-machine-learning-book)
 * [九  sleep-scoring](#九-sleep-scoring)
 * [十  research](#十-research) 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c3a982d2c995ea9401779c7f35d617fcd560a653
 
 ### 一 [100days](https://github.com/coells/100days)
     100 days of algorithms
@@ -27,7 +31,8 @@ Table of Contents
     Some attempts to classify EEG signals from the BCI competition
 
 ### 六 [ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
-    此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识
+    此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，   
+    也是作为一个算法工程师必会的理论基础知识  
 
 ### 七 [practice](https://github.com/0Monster0/Python)
     关于Python的一些进阶练习，包括算法，高级编程函数和数据库相关知识
